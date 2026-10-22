@@ -1,0 +1,1348 @@
+{
+  "summary": {
+    "organizations": 159,
+    "cities": 90,
+    "fields": 22,
+    "program_records": 8802,
+    "logos": 88,
+    "with_programs": 142,
+    "with_phone": 152,
+    "with_address": 151,
+    "with_dormitory_source": 29,
+    "with_military_source": 34,
+    "unknown_city": [
+      [
+        1195,
+        "Astana Tech University",
+        ""
+      ],
+      [
+        1197,
+        "Академия IT-технологий и образования",
+        ""
+      ],
+      [
+        1102,
+        "Казахстанская Высшая школа медицины",
+        ""
+      ],
+      [
+        1193,
+        "Международный научный центр травматологии и ортопедии",
+        "196235100"
+      ],
+      [
+        1100,
+        "Национальный центр нейрохирургии",
+        ""
+      ]
+    ],
+    "primary_city_choices": 19
+  },
+  "gaps": [
+    {
+      "id": "universities:epvo-141",
+      "name": "Alikhan Bokeikhan University",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:18",
+      "name": "AlmaU (Almaty Management University)",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:32",
+      "name": "Astana International University",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:0",
+      "name": "Astana IT University",
+      "missing": []
+    },
+    {
+      "id": "universities:epvo-1195",
+      "name": "Astana Tech University",
+      "missing": [
+        "logo",
+        "address",
+        "city",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:37",
+      "name": "Caspian University",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1105",
+      "name": "De Montfort University Kazakhstan (Де Монтфорт Юниверсити Казахстан)",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1188",
+      "name": "Jana Oner Universiteti",
+      "missing": [
+        "programs",
+        "logo",
+        "phone",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:13",
+      "name": "KIMEP University",
+      "missing": [
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:43",
+      "name": "META University (бывший ЕТУ)",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:14",
+      "name": "Narxoz University",
+      "missing": []
+    },
+    {
+      "id": "universities:epvo-1198",
+      "name": "Nomad University",
+      "missing": [
+        "programs",
+        "logo",
+        "phone",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-601",
+      "name": "OMIR INNOVATION UNIVERSITY",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-89",
+      "name": "Q\" University",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1199",
+      "name": "Qazaq AI Research University",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1178",
+      "name": "Woosong University Kazakhstan",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-116",
+      "name": "Академия \"Bolashaq",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1180",
+      "name": "Академия \"ProfExpert",
+      "missing": [
+        "programs",
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1197",
+      "name": "Академия IT-технологий и образования",
+      "missing": [
+        "programs",
+        "logo",
+        "phone",
+        "address",
+        "city",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:48",
+      "name": "Академия гражданской авиации",
+      "missing": [
+        "dormitory_confirmation"
+      ]
+    },
+    {
+      "id": "universities:42",
+      "name": "Академия логистики и транспорта (АЛТ)",
+      "missing": [
+        "dormitory_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-154",
+      "name": "Алматинский гуманитарно-экономический университет",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:36",
+      "name": "Алматинский технологический университет (АТУ)",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1158",
+      "name": "Алматинский филиал негосударственного образовательного учреждения высшего профессионального образования \"Санкт- Петербургский гуманитарный университет профсоюзов",
+      "missing": [
+        "programs",
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-8",
+      "name": "Аркалыкский педагогический университет имени Ыбырай Алтынсарин",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:30",
+      "name": "АРУ им. К. Жубанова",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1160",
+      "name": "Астанинский гуманитарно-технический университет",
+      "missing": [
+        "programs",
+        "logo",
+        "phone",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-10",
+      "name": "Атырауский университет имени Халела Досмухамедова",
+      "missing": [
+        "dormitory_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-9",
+      "name": "Атырауский университет нефти и газа имени Сафи Утебаева",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:7",
+      "name": "АУЭС им. Гумарбека Даукеева",
+      "missing": [
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-416",
+      "name": "Баишев Университет",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:23",
+      "name": "ВКТУ им. Д. Серикбаева",
+      "missing": []
+    },
+    {
+      "id": "universities:epvo-11",
+      "name": "Восточно-Казахстанский университет имени Сарсена Аманжолова",
+      "missing": [
+        "dormitory_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-151",
+      "name": "Гуманитарно-техническая академия",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:34",
+      "name": "Евразийский гуманитарный институт (ЕАГИ)",
+      "missing": [
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-147",
+      "name": "ЕКИБАСТУЗСКИЙ ИНЖЕНЕРНО-ТЕХНИЧЕСКИЙ ИНСТИТУТ ИМЕНИ АКАДЕМИКА К. САТПАЕВА",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:5",
+      "name": "ЕНУ им. Л.Н. Гумилева",
+      "missing": []
+    },
+    {
+      "id": "universities:epvo-14",
+      "name": "Жезказганский университет имени О.А.Байконурова",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:44",
+      "name": "ЖенПИ (КазНЖПУ)",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-15",
+      "name": "Жетысуский университет имени Ильяса Жансугурова",
+      "missing": [
+        "logo",
+        "dormitory_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-501",
+      "name": "Западно-Казахстанский аграрно-технический университет имени Жангир хана",
+      "missing": []
+    },
+    {
+      "id": "universities:epvo-16",
+      "name": "Западно-Казахстанский университет имени Махамбета Утемисова",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:16",
+      "name": "ЗКГМУ им. Марата Оспанова",
+      "missing": [
+        "dormitory_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-146",
+      "name": "Инновационный Евразийский университет",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1171",
+      "name": "Иностранное учебное заведение \"CARDIFF UNIVERSITY KAZAKHSTAN",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1157",
+      "name": "Иностранное учебное заведение \"Coventry Kazakhstan",
+      "missing": [
+        "address",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1191",
+      "name": "Иностранное учебное заведение \"New York Film Academy Kazakhstan",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1184",
+      "name": "Иностранное учебное заведение \"University of Innovation and Technology",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1185",
+      "name": "Институт исследований и инноваций CityUHK",
+      "missing": [
+        "programs",
+        "logo",
+        "address",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:31",
+      "name": "КазАТИУ им. С. Сейфуллина",
+      "missing": [
+        "logo",
+        "dormitory_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1183",
+      "name": "Казахская академия питания",
+      "missing": [
+        "programs",
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:41",
+      "name": "Казахская академия спорта и туризма",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-78",
+      "name": "Казахский автомобильно-дорожный институт имени Л.Б.Гончарова (КазАДИ)",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1136",
+      "name": "Казахский научно-исследовательский институт онкологии и радиологии",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1168",
+      "name": "Казахский национальный университет водного хозяйства и ирригации",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1104",
+      "name": "Казахский национальный университет спорта",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1155",
+      "name": "Казахский ордена \"Знак Почета\" научно-исследовательский институт глазных болезней",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-182",
+      "name": "Казахский университет технологии и бизнеса имени К.Кулажанова",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1102",
+      "name": "Казахстанская Высшая школа медицины",
+      "missing": [
+        "programs",
+        "logo",
+        "phone",
+        "city",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1161",
+      "name": "Казахстанский инновационный социально-технический университет",
+      "missing": [
+        "programs",
+        "logo",
+        "phone",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-100",
+      "name": "Казахстанский медицинский университет \"ВШОЗ",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-603",
+      "name": "Казахстанский университет инновационных и телекоммуникационных систем",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1167",
+      "name": "Казахстанский филиал Московского государственного университета имени М.В. Ломоносова",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1177",
+      "name": "Казахстанский филиал Федерального государственного автономного образовательного учреждения высшего образования «Московский государственный институт международных отношений (университет) Министерства иностранных дел Российской Федерации",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-153",
+      "name": "Казахстанско-Американский Свободный Университет",
+      "missing": [
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-82",
+      "name": "Казахстанско-Немецкий Университет в Алматы",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:39",
+      "name": "КазНАИ им. Т. Жургенова",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:38",
+      "name": "КазНАИУ",
+      "missing": [
+        "dormitory_confirmation"
+      ]
+    },
+    {
+      "id": "universities:21",
+      "name": "КазНИТУ им. К.И. Сатпаева (Polytech)",
+      "missing": [
+        "logo"
+      ]
+    },
+    {
+      "id": "universities:8",
+      "name": "КазНМУ им. С.Д. Асфендиярова",
+      "missing": []
+    },
+    {
+      "id": "universities:26",
+      "name": "КазНПУ им. Абая",
+      "missing": [
+        "dormitory_confirmation"
+      ]
+    },
+    {
+      "id": "universities:4",
+      "name": "КазНУ им. аль-Фараби",
+      "missing": []
+    },
+    {
+      "id": "universities:27",
+      "name": "КазУМОиМЯ им. Абылай хана",
+      "missing": []
+    },
+    {
+      "id": "universities:20",
+      "name": "КазУЭФМТ (Университет Есиль)",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-33",
+      "name": "Карагандинский индустриальный университет",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:22",
+      "name": "Карагандинский технический университет",
+      "missing": [
+        "dormitory_confirmation"
+      ]
+    },
+    {
+      "id": "universities:28",
+      "name": "Карагандинский университет им. Букетова",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-122",
+      "name": "Карагандинский университет Казпотребсоюза",
+      "missing": [
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-3",
+      "name": "Каспийский университет технологий и инжиниринга имени Ш.Есенова",
+      "missing": [
+        "dormitory_confirmation"
+      ]
+    },
+    {
+      "id": "universities:2",
+      "name": "КБТУ",
+      "missing": [
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:40",
+      "name": "КНК им. Курмангазы",
+      "missing": [
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-158",
+      "name": "Кокшетауский университет имени Абая Мырзахметова",
+      "missing": [
+        "address",
+        "dormitory_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-35",
+      "name": "Кокшетауский университет имени Ш.Уалиханова",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1132",
+      "name": "Корпоративный фонд \"University Medical Center",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-140",
+      "name": "Костанайский инженерно-экономический университет им. М.Дулатова",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-516",
+      "name": "Костанайский региональный университет имени Ахмет Байтұрсынұлы",
+      "missing": []
+    },
+    {
+      "id": "universities:epvo-145",
+      "name": "Костанайский социально-технический университет имени академика Зулхарнай Алдамжар",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1142",
+      "name": "Костанайский филиал федерального государственного бюджетного образовательного учреждения высшего образования \"Челябинский государственный университет",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:47",
+      "name": "КРМУ (Медицинский)",
+      "missing": [
+        "dormitory_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-127",
+      "name": "Кызылординский открытый университет",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-305",
+      "name": "Кызылординский Университет \"Болашак",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-34",
+      "name": "Кызылординский университет имени Коркыт Ата",
+      "missing": [
+        "dormitory_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1181",
+      "name": "Медицинская академия последипломного образования",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:9",
+      "name": "Медицинский университет Астана",
+      "missing": [
+        "logo"
+      ]
+    },
+    {
+      "id": "universities:10",
+      "name": "Медицинский университет Караганды",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:15",
+      "name": "Медицинский университет Семей",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1143",
+      "name": "Международная медицинская академия имени Сейтхана Жошыбаева",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-49",
+      "name": "Международный инженерно-технологический университет",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-37",
+      "name": "Международный казахско-турецкий университет имени Ходжи Ахмеда Ясави",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1193",
+      "name": "Международный научный центр травматологии и ортопедии",
+      "missing": [
+        "logo",
+        "city",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-223",
+      "name": "Международный Таразский университет имени Шерхана Муртазы",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-48",
+      "name": "Международный транспортно-гуманитарный университет",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1097",
+      "name": "Международный университет туризма и гостеприимства",
+      "missing": []
+    },
+    {
+      "id": "universities:epvo-1187",
+      "name": "Международный центр профессионального развития \"AIMED",
+      "missing": [
+        "programs",
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:24",
+      "name": "МОК — KazGASA и КАУ",
+      "missing": [
+        "dormitory_confirmation"
+      ]
+    },
+    {
+      "id": "universities:1",
+      "name": "МУИТ (IITU)",
+      "missing": [
+        "logo",
+        "dormitory_confirmation"
+      ]
+    },
+    {
+      "id": "universities:11",
+      "name": "Назарбаев Университет (NU)",
+      "missing": [
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1162",
+      "name": "Научно-исследовательский институт \"Алматыгенплан",
+      "missing": [
+        "programs",
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1135",
+      "name": "Научно-исследовательский институт кардиологии и внутренних болезней",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1133",
+      "name": "Научный центр акушерства, гинекологии и перинатологии",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1134",
+      "name": "Научный центр педиатрии и детской хирургии",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1170",
+      "name": "Научный центр урологии имени академика Б.У.Джарбусынова",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1148",
+      "name": "Национальный научный медицинский центр",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1111",
+      "name": "Национальный научный онкологический центр",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1118",
+      "name": "Национальный научный центр хирургии имени А.Н.Сызганова",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1100",
+      "name": "Национальный центр нейрохирургии",
+      "missing": [
+        "logo",
+        "address",
+        "city",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-517",
+      "name": "Павлодарский педагогический университет имени Әлкей Марғұлан",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1172",
+      "name": "Партнерство с ограниченной ответственностью City University of Astana",
+      "missing": [
+        "programs",
+        "logo",
+        "phone",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-318",
+      "name": "Региональный Инновационный университет",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1115",
+      "name": "Республиканская Медицинская Академия",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1096",
+      "name": "Республиканское государственное казенное предприятие «Академия государственного управления при Президенте Республики Казахстан",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1110",
+      "name": "Республиканское государственное предприятие \"Больница Медицинского центра Управления Делами Президента Республики Казахстан\" на праве хозяйственного ведения",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1112",
+      "name": "Республиканское государственное предприятие на праве хозяйственного ведения \"Казахская национальная академия хореографии\" Министерства культуры и информации Республики Казахстан",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1149",
+      "name": "Республиканское государственное предприятие на праве хозяйственного ведения \"Казахский научный центр дерматологии и инфекционных заболеваний\" Министерства здравоохранения Республики Казахстан",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1196",
+      "name": "Республиканское государственное предприятие на праве хозяйственного ведения \"Национальный координационный центр экстренной медицины\" Министерства здравоохранения Республики Казахстан",
+      "missing": [
+        "programs",
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1107",
+      "name": "Республиканское государственное предприятие на праве хозяйственного ведения \"Национальный научный центр травматологии и ортопедии имени академика Батпенова Н.Д.\" Министерства здравоохранения Республики Казахстан",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1139",
+      "name": "Республиканское государственное предприятие на праве хозяйственного ведения \"Национальный научный центр фтизиопульмонологии Республики Казахстан\" Министерства здравоохранения Республики Казахстан",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-18",
+      "name": "Республиканское государственное учреждение \"Казахский национальный университет искусств имени Күләш Байсейітовой\" Министерства культуры и информации Республики Казахстан",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-39",
+      "name": "Рудненский индустриальный университет",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:3",
+      "name": "СДУ (SDU University)",
+      "missing": [
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-40",
+      "name": "Северо-Казахстанский университет имени Манаша Козыбаева",
+      "missing": []
+    },
+    {
+      "id": "universities:epvo-43",
+      "name": "Таразский университет имени М.Х. Дулати",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:25",
+      "name": "Торайгыров Университет",
+      "missing": []
+    },
+    {
+      "id": "universities:epvo-1151",
+      "name": "Университет \"DAMU",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-133",
+      "name": "Университет \"МИРАС",
+      "missing": [
+        "address",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-202",
+      "name": "Университет дружбы народов имени академика А.Куатбекова",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-143",
+      "name": "Университет имени Жумабека Ахметулы Ташенева",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:12",
+      "name": "Университет КАЗГЮУ им. М.С. Нарикбаева",
+      "missing": [
+        "dormitory_confirmation"
+      ]
+    },
+    {
+      "id": "universities:35",
+      "name": "Университет международного бизнеса (UIB)",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:46",
+      "name": "Университет Нур-Мубарак",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:19",
+      "name": "Университет Туран",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:33",
+      "name": "Университет Туран-Астана",
+      "missing": [
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1186",
+      "name": "Университет Ұлытау",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1156",
+      "name": "Филиал \"Восход\" Московского авиационного института",
+      "missing": [
+        "programs",
+        "logo",
+        "address",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1176",
+      "name": "Филиал \"Международный Университет Анхальт в Казахстане\" Университета прикладных наук Анхальт",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1179",
+      "name": "Филиал Северо-Западного политехнического университета в Республике Казахстан",
+      "missing": [
+        "programs",
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1192",
+      "name": "Филиал университета Гази в Республике Казахстан",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1131",
+      "name": "Филиал федерального государственного автономного образовательного учреждения высшего образования \"Национальный исследовательский ядерный университет \"МИФИ\" в городе Алматы",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1152",
+      "name": "Филиал федерального государственного автономного образовательного учреждения высшего образования \"Российский государственный университет нефти и газа (национальный исследовательский университет) имени И.М. Губкина\" в городе Атырау (Республика Казахстан)",
+      "missing": [
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1163",
+      "name": "Филиал федерального государственного бюджетного образовательного учреждения высшего образования \"Российский химико-технологический университет имени Д.И. Менделеева\" в городе Тараз (Республика Казахстан)",
+      "missing": [
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-1190",
+      "name": "Центр сердца Шымкент",
+      "missing": [
+        "programs",
+        "logo",
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-413",
+      "name": "Центрально-Азиатский Инновационный Университет",
+      "missing": [
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-197",
+      "name": "Центрально-Казахстанская Академия",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-201",
+      "name": "Частное высшее профессиональное образовательное учреждение «Западно-Казахстанский инновационно-технологический университет",
+      "missing": [
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-414",
+      "name": "Шымкентский Университет",
+      "missing": [
+        "dormitory_confirmation",
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-42",
+      "name": "Шәкәрім университет",
+      "missing": [
+        "military_confirmation"
+      ]
+    },
+    {
+      "id": "universities:epvo-196",
+      "name": "Южно-Казахстанский педагогический университет имени Өзбекәлі Жәнібеков",
+      "missing": []
+    },
+    {
+      "id": "universities:17",
+      "name": "ЮКМА",
+      "missing": [
+        "dormitory_confirmation"
+      ]
+    },
+    {
+      "id": "universities:29",
+      "name": "ЮКУ им. М. Ауэзова",
+      "missing": [
+        "dormitory_confirmation"
+      ]
+    }
+  ]
+}

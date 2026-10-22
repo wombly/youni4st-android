@@ -1,0 +1,51 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function signedIn() { return request.auth != null; }
+    function validName(name) { return name is string && name.matches('^[a-z][a-z0-9_]{2,23}$'); }
+    // A username and its owner's pointer must change in the SAME atomic commit.
+    match /handles/{uid} {
+      allow get: if signedIn() && request.auth.uid == uid;
+      allow create, update: if signedIn() && request.auth.uid == uid
+        && request.resource.data.keys().hasOnly(['username'])
+        && validName(request.resource.data.username)
+        && getAfter(/databases/$(database)/documents/usernames/$(request.resource.data.username)).data.uid == uid
+        && (!exists(/databases/$(database)/documents/handles/$(uid))
+            || resource.data.username == request.resource.data.username
+            || !existsAfter(/databases/$(database)/documents/usernames/$(resource.data.username)));
+      allow list, delete: if false;
+    }
+    match /usernames/{name} {
+      allow get: if signedIn();
+      allow create: if signedIn() && validName(name)
+        && request.resource.data.keys().hasOnly(['uid'])
+        && request.resource.data.uid == request.auth.uid
+        && getAfter(/databases/$(database)/documents/handles/$(request.auth.uid)).data.username == name;
+      allow delete: if signedIn() && resource.data.uid == request.auth.uid
+        && getAfter(/databases/$(database)/documents/handles/$(request.auth.uid)).data.username != name;
+      allow update, list: if false;
+    }
+    // Private account backup. Username ownership remains in handles/usernames above.
+    match /user_data/{uid} {
+      function owner() { return signedIn() && request.auth.uid == uid; }
+      function photoValid(section) {
+        return section is map && section.photo is string
+          && section.photo.size() <= 180000
+          && (section.photo == '' || section.photo.matches('^jpeg:[A-Za-z0-9+/=]+$'));
+      }
+      allow get: if owner();
+      allow create, update: if owner()
+        && request.resource.data.keys().hasOnly(['schemaVersion','profile','resume','favorites','drafts','chat','settings','receipts'])
+        && request.resource.data.schemaVersion == 1
+        && (!('profile' in request.resource.data) || photoValid(request.resource.data.profile))
+        && (!('resume' in request.resource.data) || photoValid(request.resource.data.resume))
+        && (!('favorites' in request.resource.data) || (request.resource.data.favorites is map && request.resource.data.favorites.size() <= 5000))
+        && (!('drafts' in request.resource.data) || (request.resource.data.drafts is map && request.resource.data.drafts.size() <= 5000))
+        && (!('chat' in request.resource.data) || (request.resource.data.chat is list && request.resource.data.chat.size() <= 40))
+        && (!('settings' in request.resource.data) || request.resource.data.settings is map)
+        && (!('receipts' in request.resource.data) || request.resource.data.receipts is map);
+      allow list, delete: if false;
+    }
+    match /{document=**} { allow read, write: if false; }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "youni4st-registry-rules-tests",
+  "private": true,
+  "scripts": {"test": "firebase emulators:exec --project demo-youni4st --only firestore \"node tests.mjs\""},
+  "devDependencies": {
+    "@firebase/util": "1.15.3",
+    "@firebase/rules-unit-testing": "6.0.0",
+    "firebase": "13.1.0",
+    "firebase-tools": "15.34.0"
+  }
+}

@@ -1,0 +1,382 @@
+[
+  {
+    "id": "6039075",
+    "url": "https://www.enbek.kz/ru/vacancy/stazher-v-otdel-finansov-i-bukhgalterii-pomoshchnik-bukhgaltera~6039075",
+    "checked_at": "2026-10-17",
+    "published_at": "2026-09-25",
+    "valid_through": "2026-10-25",
+    "source_fields": {
+      "Тип занятости": "временная",
+      "Опыт работы": "Опыт не требуется",
+      "Образование": "техническое и профессиональное",
+      "Регион": "г. Алматы"
+    },
+    "employment_keys": [
+      "part_time",
+      "internship"
+    ],
+    "notes": "Visible fields take precedence over inconsistent JSON-LD experienceRequirements. Texts are editorial summaries. Schedule is not inferred from online in role title."
+  },
+  {
+    "id": "6057444",
+    "url": "https://www.enbek.kz/ru/vacancy/praktikant-stazher-menedzher-po-personalu~6057444",
+    "checked_at": "2026-10-17",
+    "published_at": "2026-09-30",
+    "valid_through": "2026-10-30",
+    "source_fields": {
+      "Тип занятости": "временная",
+      "Опыт работы": "Опыт не требуется",
+      "Образование": "техническое и профессиональное",
+      "Регион": "г. Астана, район \"Нұра\""
+    },
+    "employment_keys": [
+      "internship"
+    ],
+    "notes": "Visible fields take precedence over inconsistent JSON-LD experienceRequirements. Texts are editorial summaries. Schedule is not inferred from online in role title."
+  },
+  {
+    "id": "6095110",
+    "url": "https://www.enbek.kz/ru/vacancy/stazher-po-seo-&-(geo)-generative-engine-optimization-pod-chatgpt-i-gemini-specialist-po-mashinnomu-obucheniyu~6095110",
+    "checked_at": "2026-10-17",
+    "published_at": "2026-10-06",
+    "valid_through": "2026-11-06",
+    "source_fields": {
+      "Тип занятости": "временная",
+      "Опыт работы": "Опыт не требуется",
+      "Образование": "техническое и профессиональное",
+      "Регион": "г. Астана, район Сарыарка"
+    },
+    "employment_keys": [
+      "internship"
+    ],
+    "notes": "Visible fields take precedence over inconsistent JSON-LD experienceRequirements. Texts are editorial summaries. Schedule is not inferred from online in role title."
+  },
+  {
+    "id": "6120700",
+    "url": "https://www.enbek.kz/ru/vacancy/stazher-v-audit-departament-auditor~6120700",
+    "checked_at": "2026-10-17",
+    "published_at": "2026-10-12",
+    "valid_through": "2026-11-12",
+    "source_fields": {
+      "Тип занятости": "временная",
+      "График работы": "полный рабочий день",
+      "Стажировка": "Предполагается, оплачивается",
+      "Опыт работы": "Опыт не требуется",
+      "Образование": "высшее",
+      "Регион": "г. Алматы, Медеуский район"
+    },
+    "employment_keys": [
+      "full_time",
+      "internship"
+    ],
+    "notes": "Visible fields take precedence over inconsistent JSON-LD experienceRequirements. Texts are editorial summaries. Schedule is not inferred from online in role title."
+  },
+  {
+    "id": "6141909",
+    "url": "https://www.enbek.kz/ru/vacancy/stazher-inzhenera-tekhnologa-inzhener-na-proizvodstve~6141909",
+    "checked_at": "2026-10-17",
+    "published_at": "2026-10-16",
+    "valid_through": "2026-10-23",
+    "source_fields": {
+      "Тип занятости": "постоянная",
+      "График работы": "полный рабочий день",
+      "Стажировка": "Не предполагается",
+      "Опыт работы": "1 год",
+      "Образование": "техническое и профессиональное",
+      "Регион": "Акмолинская область, г. Кокшетау"
+    },
+    "employment_keys": [
+      "full_time",
+      "internship"
+    ],
+    "notes": "Visible fields take precedence over inconsistent JSON-LD experienceRequirements. Texts are editorial summaries. Schedule is not inferred from online in role title."
+  },
+  {
+    "id": "6145067",
+    "url": "https://www.enbek.kz/ru/vacancy/kukhonnyi-rabochii-kukhonnyi-rabochii~6145067",
+    "checked_at": "2026-10-17",
+    "published_at": "2026-10-16",
+    "valid_through": "2026-10-23",
+    "source_fields": {
+      "Тип занятости": "постоянная",
+      "График работы": "полный рабочий день",
+      "Стажировка": "Не предполагается",
+      "Опыт работы": "Опыт не требуется",
+      "Образование": "послесреднее",
+      "Регион": "Северо-Казахстанская область, г. Петропавловск"
+    },
+    "employment_keys": [
+      "full_time"
+    ],
+    "notes": "Visible fields take precedence over inconsistent JSON-LD experienceRequirements. Texts are editorial summaries. Schedule is not inferred from online in role title."
+  },
+  {
+    "id": "6145070",
+    "url": "https://www.enbek.kz/ru/vacancy/ofis-menedzher-ofis-menedzher~6145070",
+    "checked_at": "2026-10-17",
+    "published_at": "2026-10-16",
+    "valid_through": "2026-10-30",
+    "source_fields": {
+      "Тип занятости": "постоянная",
+      "График работы": "полный рабочий день",
+      "Стажировка": "Предполагается, не оплачивается",
+      "Опыт работы": "1 год",
+      "Образование": "техническое и профессиональное",
+      "Регион": "Акмолинская область, г. Кокшетау"
+    },
+    "employment_keys": [
+      "full_time",
+      "internship"
+    ],
+    "notes": "Visible fields take precedence over inconsistent JSON-LD experienceRequirements. Texts are editorial summaries. Schedule is not inferred from online in role title."
+  },
+  {
+    "id": "6143683",
+    "url": "https://www.enbek.kz/ru/vacancy/fullstack-razrabotchik-go-+-react-+-flutter-+-c++,-senior*,-highload,-konkurentnost,-profilirovanie,-sobstvennye-biblioteki---react-+-typescript-ot-4-let,-samostoyatelnaya-razrabotka-fronta-bez-dizainera-i-frontendera:-razrabotchik-mobilnykh-prilozhenii~6143683",
+    "checked_at": "2026-10-17",
+    "published_at": "2026-10-16",
+    "valid_through": "2026-10-23",
+    "source_fields": {
+      "Тип занятости": "дистанционная",
+      "График работы": "полный рабочий день",
+      "Стажировка": "Предполагается, оплачивается",
+      "Опыт работы": "4 года",
+      "Образование": "высшее",
+      "Регион": "г. Астана, район \"Сарайшык\""
+    },
+    "employment_keys": [
+      "full_time",
+      "remote"
+    ],
+    "notes": "Visible fields take precedence over inconsistent JSON-LD experienceRequirements. Texts are editorial summaries. Schedule is not inferred from online in role title."
+  },
+  {
+    "id": "6145073",
+    "url": "https://www.enbek.kz/ru/vacancy/specialist-po-gosudarstvennym-zakupkam-tenderam-specialist-po-zakupkam~6145073",
+    "checked_at": "2026-10-17",
+    "published_at": "2026-10-16",
+    "valid_through": "2026-11-06",
+    "source_fields": {
+      "Тип занятости": "постоянная",
+      "График работы": "полный рабочий день",
+      "Стажировка": "Не предполагается",
+      "Опыт работы": "3 года",
+      "Образование": "высшее",
+      "Регион": "Актюбинская область, г. Актобе"
+    },
+    "employment_keys": [
+      "full_time"
+    ],
+    "notes": "Visible fields take precedence over inconsistent JSON-LD experienceRequirements. Texts are editorial summaries. Schedule is not inferred from online in role title."
+  },
+  {
+    "id": "6145076",
+    "url": "https://www.enbek.kz/ru/vacancy/kasiptik-bagdar-berushi-pedagog,-1-birlik-zhykteme-turakty-oryn-pedagog-proforientator~6145076",
+    "checked_at": "2026-10-17",
+    "published_at": "2026-10-16",
+    "valid_through": "2026-10-30",
+    "source_fields": {
+      "Тип занятости": "постоянная",
+      "График работы": "полный рабочий день",
+      "Стажировка": "Не предполагается",
+      "Опыт работы": "1 год",
+      "Образование": "высшее",
+      "Регион": "Жамбылская область, г. Тараз"
+    },
+    "employment_keys": [
+      "full_time"
+    ],
+    "notes": "Visible fields take precedence over inconsistent JSON-LD experienceRequirements. Texts are editorial summaries. Schedule is not inferred from online in role title."
+  },
+  {
+    "id": "6145077",
+    "url": "https://www.enbek.kz/ru/vacancy/menedzher-menedzher-po-onlain-prodazham~6145077",
+    "checked_at": "2026-10-17",
+    "published_at": "2026-10-16",
+    "valid_through": "2026-10-30",
+    "source_fields": {
+      "Тип занятости": "постоянная",
+      "График работы": "полный рабочий день",
+      "Стажировка": "Не предполагается",
+      "Опыт работы": "Опыт не требуется",
+      "Образование": "общее среднее (с 1 по 11/12 классы)",
+      "Регион": "г. Шымкент, Абайский район"
+    },
+    "employment_keys": [
+      "full_time"
+    ],
+    "notes": "Visible fields take precedence over inconsistent JSON-LD experienceRequirements. Texts are editorial summaries. Schedule is not inferred from online in role title."
+  },
+  {
+    "id": "6144920",
+    "url": "https://www.enbek.kz/ru/vacancy/pomoshchnik-rukovoditelya-onlain-assistent-(obshchii-profil)~6144920",
+    "checked_at": "2026-10-17",
+    "published_at": "2026-10-16",
+    "valid_through": "2026-10-23",
+    "source_fields": {
+      "Тип занятости": "дистанционная",
+      "График работы": "надомная работа",
+      "Стажировка": "Не предполагается",
+      "Опыт работы": "Опыт не требуется",
+      "Образование": "послесреднее",
+      "Регион": "г. Астана, район \"Сарайшык\""
+    },
+    "employment_keys": [
+      "remote"
+    ],
+    "notes": "Visible fields take precedence over inconsistent JSON-LD experienceRequirements. Texts are editorial summaries. Schedule is not inferred from online in role title."
+  },
+  {
+    "id": "6145082",
+    "url": "https://www.enbek.kz/ru/vacancy/perevodchik-perevodchik-sinkhronnyi~6145082",
+    "checked_at": "2026-10-17",
+    "published_at": "2026-10-16",
+    "valid_through": "2026-11-16",
+    "source_fields": {
+      "Тип занятости": "постоянная",
+      "График работы": "неполный рабочий день",
+      "Стажировка": "Не предполагается",
+      "Опыт работы": "3 года",
+      "Образование": "техническое и профессиональное",
+      "Регион": "г. Алматы, Медеуский район"
+    },
+    "employment_keys": [
+      "part_time"
+    ],
+    "notes": "Visible fields take precedence over inconsistent JSON-LD experienceRequirements. Texts are editorial summaries. Schedule is not inferred from online in role title."
+  },
+  {
+    "id": "6145083",
+    "url": "https://www.enbek.kz/ru/vacancy/mladshii-kassir-kassir-banka~6145083",
+    "checked_at": "2026-10-17",
+    "published_at": "2026-10-16",
+    "valid_through": "2026-10-23",
+    "source_fields": {
+      "Тип занятости": "временная",
+      "График работы": "полный рабочий день",
+      "Стажировка": "Не предполагается",
+      "Опыт работы": "1 год",
+      "Образование": "техническое и профессиональное",
+      "Регион": "Атырауская область, г. Атырау"
+    },
+    "employment_keys": [
+      "full_time"
+    ],
+    "notes": "Visible fields take precedence over inconsistent JSON-LD experienceRequirements. Texts are editorial summaries. Schedule is not inferred from online in role title."
+  },
+  {
+    "id": "6145084",
+    "url": "https://www.enbek.kz/ru/vacancy/assistent-auditora-auditor~6145084",
+    "checked_at": "2026-10-17",
+    "published_at": "2026-10-16",
+    "valid_through": "2026-10-23",
+    "source_fields": {
+      "Тип занятости": "постоянная",
+      "График работы": "полный рабочий день",
+      "Стажировка": "Не предполагается",
+      "Опыт работы": "1 год",
+      "Образование": "высшее",
+      "Регион": "г. Алматы, Бостандыкский район"
+    },
+    "employment_keys": [
+      "full_time"
+    ],
+    "notes": "Visible fields take precedence over inconsistent JSON-LD experienceRequirements. Texts are editorial summaries. Schedule is not inferred from online in role title."
+  },
+  {
+    "id": "6145088",
+    "url": "https://www.enbek.kz/ru/vacancy/pekar-konditer-konditer~6145088",
+    "checked_at": "2026-10-17",
+    "published_at": "2026-10-16",
+    "valid_through": "2026-10-30",
+    "source_fields": {
+      "Тип занятости": "постоянная",
+      "График работы": "полный рабочий день",
+      "Стажировка": "Не предполагается",
+      "Опыт работы": "1 год",
+      "Образование": "общее среднее (с 1 по 11/12 классы)",
+      "Регион": "г.Астана"
+    },
+    "employment_keys": [
+      "full_time"
+    ],
+    "notes": "Visible fields take precedence over inconsistent JSON-LD experienceRequirements. Texts are editorial summaries. Schedule is not inferred from online in role title."
+  },
+  {
+    "id": "6145091",
+    "url": "https://www.enbek.kz/ru/vacancy/menedzher-po-prodazham-menedzher-po-prodazham~6145091",
+    "checked_at": "2026-10-17",
+    "published_at": "2026-10-16",
+    "valid_through": "2026-10-23",
+    "source_fields": {
+      "Тип занятости": "постоянная",
+      "График работы": "полный рабочий день",
+      "Стажировка": "Не предполагается",
+      "Опыт работы": "1 год",
+      "Образование": "техническое и профессиональное",
+      "Регион": "г. Астана, район Сарыарка"
+    },
+    "employment_keys": [
+      "full_time"
+    ],
+    "notes": "Visible fields take precedence over inconsistent JSON-LD experienceRequirements. Texts are editorial summaries. Schedule is not inferred from online in role title."
+  },
+  {
+    "id": "6145093",
+    "url": "https://www.enbek.kz/ru/vacancy/uchitel-muzyka-i-ritmika-s-defektologicheskim-obrazovaniem-uchitel-muzyki~6145093",
+    "checked_at": "2026-10-17",
+    "published_at": "2026-10-16",
+    "valid_through": "2026-11-16",
+    "source_fields": {
+      "Тип занятости": "постоянная",
+      "График работы": "полный рабочий день",
+      "Стажировка": "Не предполагается",
+      "Опыт работы": "1 год",
+      "Образование": "техническое и профессиональное",
+      "Регион": "Карагандинская область, г. Караганда, Октябрьский район"
+    },
+    "employment_keys": [
+      "full_time"
+    ],
+    "notes": "Visible fields take precedence over inconsistent JSON-LD experienceRequirements. Texts are editorial summaries. Schedule is not inferred from online in role title."
+  },
+  {
+    "id": "6145094",
+    "url": "https://www.enbek.kz/ru/vacancy/torgovyi-predstavitel~6145094",
+    "checked_at": "2026-10-17",
+    "published_at": "2026-10-16",
+    "valid_through": "2026-10-30",
+    "source_fields": {
+      "Тип занятости": "постоянная",
+      "График работы": "полный рабочий день",
+      "Стажировка": "Не предполагается",
+      "Опыт работы": "1 год",
+      "Образование": "техническое и профессиональное",
+      "Регион": "Западно-Казахстанская область, г. Уральск"
+    },
+    "employment_keys": [
+      "full_time"
+    ],
+    "notes": "Visible fields take precedence over inconsistent JSON-LD experienceRequirements. Texts are editorial summaries. Schedule is not inferred from online in role title."
+  },
+  {
+    "id": "6145095",
+    "url": "https://www.enbek.kz/ru/vacancy/logist-po-mezhdunarodnym-i-regionalnym-avtomobilnym-perevozkam-logist~6145095",
+    "checked_at": "2026-10-17",
+    "published_at": "2026-10-16",
+    "valid_through": "2026-10-30",
+    "source_fields": {
+      "Тип занятости": "постоянная",
+      "График работы": "полный рабочий день",
+      "Стажировка": "Предполагается, оплачивается",
+      "Опыт работы": "1 год",
+      "Образование": "высшее",
+      "Регион": "г. Алматы, Медеуский район"
+    },
+    "employment_keys": [
+      "full_time",
+      "internship"
+    ],
+    "notes": "Visible fields take precedence over inconsistent JSON-LD experienceRequirements. Texts are editorial summaries. Schedule is not inferred from online in role title."
+  }
+]

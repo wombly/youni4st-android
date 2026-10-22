@@ -1,0 +1,437 @@
+{
+  "with_logos": 88,
+  "added": [
+    {
+      "id": 83,
+      "source": "https://almau.edu.kz/wp-content/uploads/2024/02/logo-svg.svg",
+      "asset": "file:///android_asset/images/universities/83-062.png"
+    },
+    {
+      "id": 1169,
+      "source": "https://nu.edu.kz/wp-content/uploads/2025/05/logo_nu1.svg",
+      "asset": "file:///android_asset/images/universities/1169-062.png"
+    },
+    {
+      "id": 4,
+      "source": "https://ospanov.university/assets/images/logozk.png",
+      "asset": "file:///android_asset/images/universities/4-062.png"
+    }
+  ],
+  "retrieval_checks": [
+    {
+      "id": 83,
+      "url": "https://almau.edu.kz/",
+      "candidates": [
+        "https://almau.edu.kz/wp-content/uploads/2024/02/logo-svg.svg",
+        "https://almau.edu.kz/wp-content/uploads/2024/05/Logo_itog_2024_PNG1.png",
+        "https://almau.edu.kz/wp-content/uploads/2024/05/chartered-institute-of-management-accountants-logo-76353DBD21-seeklogo.com_.png",
+        "https://almau.edu.kz/wp-content/uploads/2024/03/Logo_CEEMAN-IQA-Accredited-2.png",
+        "https://almau.edu.kz/wp-content/themes/alma/img/logo__footer.png"
+      ]
+    },
+    {
+      "id": 1169,
+      "url": "https://nu.edu.kz/",
+      "candidates": [
+        "https://nu.edu.kz/wp-content/uploads/2025/05/logo_nu1.svg"
+      ]
+    },
+    {
+      "id": 190,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "id": 29,
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+    },
+    {
+      "id": 25,
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+    },
+    {
+      "id": 2,
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+    },
+    {
+      "id": 1,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "id": 30,
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+    },
+    {
+      "id": 503,
+      "url": "https://www.nmu.edu.kz/ru/main/",
+      "candidates": []
+    },
+    {
+      "id": 160,
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.etuuniversity.kz'. (_ssl.c:1010)>"
+    },
+    {
+      "id": 4,
+      "url": "https://ospanov.university/",
+      "candidates": [
+        "https://ospanov.university/assets/images/logozk.png"
+      ]
+    }
+  ],
+  "remaining": [
+    {
+      "id": 1195,
+      "name": "Astana Tech University",
+      "website": ""
+    },
+    {
+      "id": 1105,
+      "name": "De Montfort University Kazakhstan (Де Монтфорт Юниверсити Казахстан)",
+      "website": ""
+    },
+    {
+      "id": 1188,
+      "name": "Jana Oner Universiteti",
+      "website": ""
+    },
+    {
+      "id": 160,
+      "name": "META University (бывший ЕТУ)",
+      "website": "http://etu.edu.kz/"
+    },
+    {
+      "id": 1198,
+      "name": "Nomad University",
+      "website": ""
+    },
+    {
+      "id": 89,
+      "name": "Q\" University",
+      "website": "http://www.kainar-edu.kz/"
+    },
+    {
+      "id": 1199,
+      "name": "Qazaq AI Research University",
+      "website": ""
+    },
+    {
+      "id": 1178,
+      "name": "Woosong University Kazakhstan",
+      "website": "https://wsuk.edu.kz/"
+    },
+    {
+      "id": 116,
+      "name": "Академия \"Bolashaq",
+      "website": "http://kubolashak.kz/"
+    },
+    {
+      "id": 1180,
+      "name": "Академия \"ProfExpert",
+      "website": ""
+    },
+    {
+      "id": 1197,
+      "name": "Академия IT-технологий и образования",
+      "website": ""
+    },
+    {
+      "id": 154,
+      "name": "Алматинский гуманитарно-экономический университет",
+      "website": "http://aesa.kz/"
+    },
+    {
+      "id": 1158,
+      "name": "Алматинский филиал негосударственного образовательного учреждения высшего профессионального образования \"Санкт- Петербургский гуманитарный университет профсоюзов",
+      "website": ""
+    },
+    {
+      "id": 8,
+      "name": "Аркалыкский педагогический университет имени Ыбырай Алтынсарин",
+      "website": "https://www.api.kz/"
+    },
+    {
+      "id": 1160,
+      "name": "Астанинский гуманитарно-технический университет",
+      "website": ""
+    },
+    {
+      "id": 147,
+      "name": "ЕКИБАСТУЗСКИЙ ИНЖЕНЕРНО-ТЕХНИЧЕСКИЙ ИНСТИТУТ ИМЕНИ АКАДЕМИКА К. САТПАЕВА",
+      "website": "http://eitiekb.kz/"
+    },
+    {
+      "id": 14,
+      "name": "Жезказганский университет имени О.А.Байконурова",
+      "website": "http://www.zhezu.kz/"
+    },
+    {
+      "id": 25,
+      "name": "ЖенПИ (КазНЖПУ)",
+      "website": "http://kazmkpu.kz/"
+    },
+    {
+      "id": 15,
+      "name": "Жетысуский университет имени Ильяса Жансугурова",
+      "website": "http://zhgu.edu.kz/"
+    },
+    {
+      "id": 1171,
+      "name": "Иностранное учебное заведение \"CARDIFF UNIVERSITY KAZAKHSTAN",
+      "website": ""
+    },
+    {
+      "id": 1191,
+      "name": "Иностранное учебное заведение \"New York Film Academy Kazakhstan",
+      "website": ""
+    },
+    {
+      "id": 1184,
+      "name": "Иностранное учебное заведение \"University of Innovation and Technology",
+      "website": ""
+    },
+    {
+      "id": 1185,
+      "name": "Институт исследований и инноваций CityUHK",
+      "website": "https://cityu-admission.satbayev.university/ru/contacts"
+    },
+    {
+      "id": 2,
+      "name": "КазАТИУ им. С. Сейфуллина",
+      "website": "http://kazatu.kz/"
+    },
+    {
+      "id": 1183,
+      "name": "Казахская академия питания",
+      "website": "https://nutritionacademy.kz/"
+    },
+    {
+      "id": 1136,
+      "name": "Казахский научно-исследовательский институт онкологии и радиологии",
+      "website": ""
+    },
+    {
+      "id": 1155,
+      "name": "Казахский ордена \"Знак Почета\" научно-исследовательский институт глазных болезней",
+      "website": ""
+    },
+    {
+      "id": 1102,
+      "name": "Казахстанская Высшая школа медицины",
+      "website": ""
+    },
+    {
+      "id": 1161,
+      "name": "Казахстанский инновационный социально-технический университет",
+      "website": ""
+    },
+    {
+      "id": 1177,
+      "name": "Казахстанский филиал Федерального государственного автономного образовательного учреждения высшего образования «Московский государственный институт международных отношений (университет) Министерства иностранных дел Российской Федерации",
+      "website": ""
+    },
+    {
+      "id": 29,
+      "name": "КазНИТУ им. К.И. Сатпаева (Polytech)",
+      "website": "https://satbayev.university/"
+    },
+    {
+      "id": 33,
+      "name": "Карагандинский индустриальный университет",
+      "website": "http://kgiu.kz/"
+    },
+    {
+      "id": 1132,
+      "name": "Корпоративный фонд \"University Medical Center",
+      "website": ""
+    },
+    {
+      "id": 1142,
+      "name": "Костанайский филиал федерального государственного бюджетного образовательного учреждения высшего образования \"Челябинский государственный университет",
+      "website": ""
+    },
+    {
+      "id": 127,
+      "name": "Кызылординский открытый университет",
+      "website": "http://www.itskzo.kz/"
+    },
+    {
+      "id": 1181,
+      "name": "Медицинская академия последипломного образования",
+      "website": ""
+    },
+    {
+      "id": 1,
+      "name": "Медицинский университет Астана",
+      "website": ""
+    },
+    {
+      "id": 30,
+      "name": "Медицинский университет Караганды",
+      "website": "http://www.kgmu.kz/"
+    },
+    {
+      "id": 1143,
+      "name": "Международная медицинская академия имени Сейтхана Жошыбаева",
+      "website": "https://mma.edu.kz/"
+    },
+    {
+      "id": 1193,
+      "name": "Международный научный центр травматологии и ортопедии",
+      "website": ""
+    },
+    {
+      "id": 223,
+      "name": "Международный Таразский университет имени Шерхана Муртазы",
+      "website": "https://htii.edu.kz/"
+    },
+    {
+      "id": 48,
+      "name": "Международный транспортно-гуманитарный университет",
+      "website": "https://mtgu.edu.kz/ru/main/"
+    },
+    {
+      "id": 1187,
+      "name": "Международный центр профессионального развития \"AIMED",
+      "website": "https://www.proaimed.kz/about"
+    },
+    {
+      "id": 190,
+      "name": "МУИТ (IITU)",
+      "website": "http://www.iitu.kz/"
+    },
+    {
+      "id": 1162,
+      "name": "Научно-исследовательский институт \"Алматыгенплан",
+      "website": ""
+    },
+    {
+      "id": 1135,
+      "name": "Научно-исследовательский институт кардиологии и внутренних болезней",
+      "website": ""
+    },
+    {
+      "id": 1133,
+      "name": "Научный центр акушерства, гинекологии и перинатологии",
+      "website": ""
+    },
+    {
+      "id": 1134,
+      "name": "Научный центр педиатрии и детской хирургии",
+      "website": ""
+    },
+    {
+      "id": 1170,
+      "name": "Научный центр урологии имени академика Б.У.Джарбусынова",
+      "website": "https://ncu.kz/"
+    },
+    {
+      "id": 1148,
+      "name": "Национальный научный медицинский центр",
+      "website": ""
+    },
+    {
+      "id": 1111,
+      "name": "Национальный научный онкологический центр",
+      "website": ""
+    },
+    {
+      "id": 1118,
+      "name": "Национальный научный центр хирургии имени А.Н.Сызганова",
+      "website": ""
+    },
+    {
+      "id": 1100,
+      "name": "Национальный центр нейрохирургии",
+      "website": ""
+    },
+    {
+      "id": 1172,
+      "name": "Партнерство с ограниченной ответственностью City University of Astana",
+      "website": "https://cityu.edu.kz/"
+    },
+    {
+      "id": 1115,
+      "name": "Республиканская Медицинская Академия",
+      "website": ""
+    },
+    {
+      "id": 1110,
+      "name": "Республиканское государственное предприятие \"Больница Медицинского центра Управления Делами Президента Республики Казахстан\" на праве хозяйственного ведения",
+      "website": "https://bmcudp.kz/ru/feedback/"
+    },
+    {
+      "id": 1149,
+      "name": "Республиканское государственное предприятие на праве хозяйственного ведения \"Казахский научный центр дерматологии и инфекционных заболеваний\" Министерства здравоохранения Республики Казахстан",
+      "website": "https://kncdiz.kz/ru/kntsdiz/"
+    },
+    {
+      "id": 1196,
+      "name": "Республиканское государственное предприятие на праве хозяйственного ведения \"Национальный координационный центр экстренной медицины\" Министерства здравоохранения Республики Казахстан",
+      "website": ""
+    },
+    {
+      "id": 1107,
+      "name": "Республиканское государственное предприятие на праве хозяйственного ведения \"Национальный научный центр травматологии и ортопедии имени академика Батпенова Н.Д.\" Министерства здравоохранения Республики Казахстан",
+      "website": ""
+    },
+    {
+      "id": 1139,
+      "name": "Республиканское государственное предприятие на праве хозяйственного ведения \"Национальный научный центр фтизиопульмонологии Республики Казахстан\" Министерства здравоохранения Республики Казахстан",
+      "website": ""
+    },
+    {
+      "id": 18,
+      "name": "Республиканское государственное учреждение \"Казахский национальный университет искусств имени Күләш Байсейітовой\" Министерства культуры и информации Республики Казахстан",
+      "website": "http://kaznui.kz/"
+    },
+    {
+      "id": 43,
+      "name": "Таразский университет имени М.Х. Дулати",
+      "website": "https://dulaty.kz/"
+    },
+    {
+      "id": 1151,
+      "name": "Университет \"DAMU",
+      "website": ""
+    },
+    {
+      "id": 503,
+      "name": "Университет Нур-Мубарак",
+      "website": "https://nmu.kz/"
+    },
+    {
+      "id": 1156,
+      "name": "Филиал \"Восход\" Московского авиационного института",
+      "website": "https://voshod.mai.ru/"
+    },
+    {
+      "id": 1176,
+      "name": "Филиал \"Международный Университет Анхальт в Казахстане\" Университета прикладных наук Анхальт",
+      "website": ""
+    },
+    {
+      "id": 1179,
+      "name": "Филиал Северо-Западного политехнического университета в Республике Казахстан",
+      "website": "https://www.gov.kz/uploads/2026/4/10/2528c271962c8da2c94e481c10681275_original.590314.pdf"
+    },
+    {
+      "id": 1192,
+      "name": "Филиал университета Гази в Республике Казахстан",
+      "website": ""
+    },
+    {
+      "id": 1131,
+      "name": "Филиал федерального государственного автономного образовательного учреждения высшего образования \"Национальный исследовательский ядерный университет \"МИФИ\" в городе Алматы",
+      "website": ""
+    },
+    {
+      "id": 1152,
+      "name": "Филиал федерального государственного автономного образовательного учреждения высшего образования \"Российский государственный университет нефти и газа (национальный исследовательский университет) имени И.М. Губкина\" в городе Атырау (Республика Казахстан)",
+      "website": "https://www.gov.kz/uploads/2026/4/10/2528c271962c8da2c94e481c10681275_original.590314.pdf"
+    },
+    {
+      "id": 1190,
+      "name": "Центр сердца Шымкент",
+      "website": "https://heartcentershym.kz/services/?lang=ru"
+    }
+  ]
+}

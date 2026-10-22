@@ -1,0 +1,8 @@
+<!-- Same 36 dp corner radius as the 160 dp logo in BrandIntro.
+     Paint only the four outer corners, keeping the original logo untouched. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="160dp" android:height="160dp"
+    android:viewportWidth="160" android:viewportHeight="160">
+    <path android:fillColor="#080D17" android:fillType="evenOdd"
+        android:pathData="M0,0H160V160H0Z M36,0H124A36,36 0,0 1,160,36V124A36,36 0,0 1,124,160H36A36,36 0,0 1,0,124V36A36,36 0,0 1,36,0Z" />
+</vector>

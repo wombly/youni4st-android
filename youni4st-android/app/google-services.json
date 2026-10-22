@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "882351713052",
+    "project_id": "youni4st-1acc7",
+    "storage_bucket": "youni4st-1acc7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882351713052:android:f38b7773947d6dcb5aa8d9",
+        "android_client_info": {
+          "package_name": "kz.youni4st.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882351713052-aug48u1hh8kndbv21quh19jvknpvns46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kz.youni4st.app",
+            "certificate_hash": "bc206a42e5411050b005a17e506f16ac2ca9e984"
+          }
+        },
+        {
+          "client_id": "882351713052-jk870ru1f449uf2mj1cg0lp6jsg755ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7JnLKdEiev1TG_LfzB6B_-w8DLBhSy6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882351713052-jk870ru1f449uf2mj1cg0lp6jsg755ld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
